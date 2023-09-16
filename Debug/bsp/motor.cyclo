@@ -1,0 +1,7 @@
+motor.c:11:6:CanConfig_Init	1
+motor.c:27:6:MotorInfo_Init	2
+motor.c:45:6:MotorInit	1
+motor.c:56:6:Set_ChasissConf	1
+motor.c:71:6:Set_GimbalConf	1
+motor.c:81:6:Set_AmmoSpeed	1
+motor.c:94:6:Motor_RecieveData	1

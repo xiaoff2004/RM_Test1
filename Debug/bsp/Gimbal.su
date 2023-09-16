@@ -1,0 +1,2 @@
+../bsp/Gimbal.c:9:6:Gimbal_Init	4	static
+../bsp/Gimbal.c:16:6:Gimbal_UpData	8	static

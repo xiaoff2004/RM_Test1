@@ -1,0 +1,7 @@
+../bsp/motor.c:11:6:CanConfig_Init	48	static
+../bsp/motor.c:27:6:MotorInfo_Init	16	static
+../bsp/motor.c:45:6:MotorInit	8	static
+../bsp/motor.c:56:6:Set_ChasissConf	32	static
+../bsp/motor.c:71:6:Set_GimbalConf	24	static
+../bsp/motor.c:81:6:Set_AmmoSpeed	24	static
+../bsp/motor.c:94:6:Motor_RecieveData	16	static

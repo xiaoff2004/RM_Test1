@@ -1,0 +1,2 @@
+../bsp/remote.c:12:6:RemoteInit	4	static
+../bsp/remote.c:18:6:RemoteData_Unpack	40	static

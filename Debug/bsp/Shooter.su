@@ -1,0 +1,2 @@
+../bsp/Shooter.c:8:6:Shooter_Init	4	static
+../bsp/Shooter.c:15:6:Shooter_UpData	16	static
